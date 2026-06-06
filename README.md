@@ -2,12 +2,11 @@
 Adults in Sub-Saharan Africa
 
 ## Overview
-This repository contains the code, analysis, and results for a 
-machine learning study predicting immunological non-response (INR) 
+This is a machine learning study predicting immunological non-response (INR) 
 to antiretroviral therapy (ART) among HIV-positive adults in 
 Nigeria. The study introduces an exhaustion-informed feature 
-engineering framework — constructing clinical surrogates of T-cell 
-exhaustion from routine health records — and evaluates four 
+engineering framework i.e., constructing clinical surrogates of T-cell 
+exhaustion from routine health records,  and evaluates four 
 supervised classification algorithms with full SHAP explainability 
 analysis.
 
